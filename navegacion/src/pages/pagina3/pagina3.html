@@ -1,0 +1,24 @@
+<ion-header>
+
+	<ion-navbar>
+		<ion-title>Pagina 3</ion-title>
+	</ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+	<h3 text-center>
+		{{mutante.nombre}}
+	</h3>
+
+	<button ion-button block (click)="irAtras()">
+		ir atras
+	</button>
+	<button ion-button block (click)="irRoot()">
+		ir a root
+	</button>
+	<button ion-button block navPop>
+		desde el html atras
+	</button>
+</ion-content>
