@@ -1,0 +1,8 @@
+{
+  "name": "misTabs",
+  "app_id": "bc90d055",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
