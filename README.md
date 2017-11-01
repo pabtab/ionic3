@@ -1,4 +1,4 @@
-# ionic3-udemy-course
+# ionic3
 
-Code practice from Udemy course, each module are divide in independent folders
+Code practice, each module are divide in independent folders
 
